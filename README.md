@@ -1,1 +1,1 @@
-# Mini-Project-Answering-Business-Questions-using-SQL (Dataquest course)
+# Answering business questions using SQL (Dataquest course)
